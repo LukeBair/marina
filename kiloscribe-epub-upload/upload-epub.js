@@ -10,7 +10,7 @@ const sdk = new InscriptionSDK({
 const result = await sdk.inscribeAndExecute({
     file: {
         type: 'url',
-        url: 'https://drive.google.com/file/d/1Qsn-PVmZHApnCE6rZMTkwmUv8MO-_5An/view'
+        url: 'https://drive.usercontent.google.com/download?id=1xZ7_zvYxhXUHH7JpI3Q3RuEMf0eSER97&export=download&authuser=0'
     },
     holderId: process.env.HEDERA_ACCOUNT_ID,
     mode: 'file'
