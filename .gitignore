@@ -1,0 +1,5 @@
+kiloscribe-epub-upload/node_modules/
+kiloscribe-epub-upload/.env
+kiloscribe-epub-upload/.idea/
+
+kiloscribe-test-server/.idea/
